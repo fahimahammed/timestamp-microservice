@@ -40,5 +40,4 @@ For a valid date string input, return:
 - Inspiration and learning resources from the FreeCodeCamp community.
 
 ---
-
 This is the project code for the Timestamp Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice
